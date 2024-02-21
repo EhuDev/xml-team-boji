@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hobbies.xsl"?>
+<team>
+  <boji >
+    <image>profile.jpg</image>
+    <name>Langcoyan, Jhonard </name>
+    <hobbies>Watching Movies/Anime<br/>
+    Reading Manga <br/>
+    Drawing <br/>
+    Coding <br/>
+    Play online games</hobbies>
+<link>https://www.facebook.com/jhonard06/</link>
+</boji>
+<boji>
+<image>mak.jpg</image>
+<name>Maraya, Mark Anthony</name>
+<hobbies>Biking<br/>
+        Watching Anime<br/>
+        Reading Manga <br/>
+        Play online games</hobbies>
+<link>https://www.facebook.com/KyraSenpai27</link>
+</boji>
+<boji>
+<image>bert.jpg</image>
+<name>Rullan, Robert Arvin </name>
+<hobbies>Play online games<br/>
+    Reading manga <br/>
+    Travel <br/>
+    Watching Anime
+</hobbies>
+<link>https://www.facebook.com/robertarvin.rullan</link>
+</boji>
+<boji>
+<image>gargar.jpg</image>
+<name>Garcia, Christian Jade</name>
+<hobbies>Coding<br/>
+    Sleeping <br/>
+    Travel <br/>
+    Play online games</hobbies>
+<link>https://www.facebook.com/profile.php?id=100073764390661</link>
+</boji>
+<boji>
+<image>monics.jpg</image>
+<name>Cruz, Monica </name>
+<hobbies>Shopping<br/>
+Travel <br/>
+Eating<br/>
+Reading Books</hobbies>
+<link>https://www.facebook.com/profile.php?id=100015856901964</link>
+</boji>
+</team>
